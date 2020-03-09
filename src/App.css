@@ -109,7 +109,7 @@ body, html {
   border-radius: .4rem;
 }
 
-#react-tab:hover, #ruby-tab:hover, #vanilla-js-tab:hover, #all:hover {
+#react-tab:hover, #ruby-tab:hover, #vanilla-js-tab:hover, #all-tab:hover {
   cursor: pointer;
 }
 
